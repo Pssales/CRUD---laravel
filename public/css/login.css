@@ -1,0 +1,23 @@
+body { 
+ 	min-height: 100vh; 
+ 	background-color: #FF0000; 
+ 	
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+} 
+ 
+ //centraliza verticalmente
+.login-form { 
+ 	margin-top: 50vh; 
+	padding: 20px 30px; 
+ 	background-color: rgba(0, 0, 0, .9); 
+ 	color: #FFF; 
+ 
+ 	transform: translateY(-50%); 
+} 
+ 
+
+.login-form h2 { 
+ 	margin: 0 0 30px; 
+ 	font-size: 1em; 
+} 
